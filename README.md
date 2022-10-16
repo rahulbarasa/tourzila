@@ -5,13 +5,11 @@
 ### Available Links 👇👇👇👇
 
 [Click Here for GitHub Hosting v1](https://iamhimanshugulati.github.io/mytourzilla/) | 
-[Click Here for other Hosting with backend v1](https://tourzilla.000webhostapp.com/mytourzilla/)
+[Click Here for other Hosting with backend](https://tourzilla.000webhostapp.com/mytourzilla/)
 
-# myTourZilla v2 link 😊
 ### Available Links 👇👇👇👇
 
-[Click Here for GitHub Hosting v2](https://iamhimanshugulati.github.io/tourzilla-v2/)
-
 ### Contributors of this Project
-[Shweta Yadav](https://github.com/shweta-50) | 
+[Shweta Yadav] (https://github.com/shweta-50) | 
 [Priyam Agnihotri](https://github.com/priyam-272)
+[Himanshu Gulati] (https://github.com/iamhimanshugulati)
