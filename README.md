@@ -4,8 +4,7 @@
 ### Note - This project was done remotely due covid-19 pandemic. ☹
 ### Available Links 👇👇👇👇
 
-[Click Here for GitHub Hosting v1](https://iamhimanshugulati.github.io/mytourzilla/) | 
-[Click Here for other Hosting with backend v1](https://tourzilla.000webhostapp.com/mytourzilla/)
+[Click Here for GitHub Hosting](https://rahulbarasa.github.io/tourzilla/) |
 
 ### Available Links 👇👇👇👇
 
