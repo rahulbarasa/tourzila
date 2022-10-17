@@ -4,9 +4,9 @@
 ### Note - This project was done remotely due covid-19 pandemic. ☹
 ### Available Links 👇👇👇👇
 
-[Click Here for GitHub Hosting](https://rahulbarasa.github.io/tourzilla/) |
+[Click Here for see TourZill](https://rahulbarasa.github.io/tourzilla/) |
 
-### Available Links 👇👇👇👇
+Available Links 👇👇👇👇
 
 ### Contributors of this Project
 [Shweta Yadav](https://github.com/shweta-50) | 
