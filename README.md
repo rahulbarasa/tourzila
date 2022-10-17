@@ -10,5 +10,5 @@ Available Links 👇👇👇👇
 
 ### Contributors of this Project
 [Shweta Yadav](https://github.com/shweta-50) | 
-[Priyam Agnihotri](https://github.com/priyam-272)
-[Himanshu Gulati] (https://github.com/iamhimanshugulati)
+[Priyam Agnihotri](https://github.com/priyam-272) |
+[Himanshu Gulati](https://github.com/iamhimanshugulati)
